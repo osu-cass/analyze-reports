@@ -1,5 +1,5 @@
 # Report-Reports.ps1 - Generates reports for reports
-# Copyright (C) 2017 Oregon Department of Transportation
+# Copyright (C) 2017. All Rights Reserved. Oregon Department of Transportation.
 
 # Opens a dialog and allows the user to select a directory
 function Get-Folder ( $Description, $SelectedFolder, $AllowNew )
